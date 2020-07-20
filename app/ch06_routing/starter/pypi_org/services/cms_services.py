@@ -1,3 +1,13 @@
+# _*_ coding: utf-8 _*_
+# !/usr/bin/env python3
+
+"""
+Created on: 17/06/2020
+
+@author: Collisio-Adolebitque
+"""
+
+
 fake_db = {
     '/company/history': {
         'page_title': 'Company history',
